@@ -1,0 +1,25 @@
+.banner-area h2{
+	    padding-top: 8%;
+		font-size: 80px;
+		color: #fff;
+	}
+	.content-area{
+	    width: 75%;
+		height: 2000px;
+		position: relative;
+		background: #fff;
+		top: 500px;
+		background-color: #AEB6BF ;
+    }
+	.content-area h2{
+	    font-size: 40px;
+		margin: 0;
+	    pudding-top: 30px;
+		letter-spacing: 4px;
+	
+	} 
+    .content-area p{
+	    padding: 2% 0;
+		line-height: 35px;
+		text-align: justify;
+	}
